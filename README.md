@@ -44,6 +44,14 @@ CQG_TestTask /
 
 <hr>
 
+<h3>Требования для запуска:</h3>
+
+
+```Python 3.11.1```
+
+
+<hr>
+
 <h3>Запуск программы:</h3>
 
 PS path/to/CQG_TestTask> ```python app/main.py ./data/config.txt ./data/input.txt```
