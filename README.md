@@ -40,6 +40,7 @@ CQG_TestTask /
 <br>&emsp;tests /
 <br>&emsp;&emsp;test_converter.py
 <br>&emsp;README.md
+<br>&emsp;.gitignore
 
 <hr>
 
